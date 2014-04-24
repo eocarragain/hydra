@@ -25,7 +25,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'hydra-head', '~> 6.5.0'
   gem.add_dependency 'jettywrapper', '~> 1.5.0'
-  gem.add_dependency 'active-fedora', '~> 6.7.7'
+  gem.add_dependency 'active-fedora', '~> 7.0.2'
   gem.add_dependency 'rails', '>= 3.2.15', '< 5.0'
   gem.add_dependency 'om', '~> 3.0.3'
   gem.add_dependency 'solrizer', '~> 3.1.0'
